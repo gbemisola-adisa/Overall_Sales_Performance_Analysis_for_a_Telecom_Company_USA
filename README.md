@@ -122,6 +122,7 @@ ORDER BY year
 ```
 ## c: 
 
+
 The Analysis Results is summarised as follows: 
 
 - The Company’s Top 3  Customers by ranking are 
