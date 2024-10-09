@@ -11,6 +11,7 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify Top performing customers, products, channels of sales , region , trends, and the overall performance of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 ## Table of content
+[Project Overview](Project-Overview)
 [Data Sources](Data-Sources) <br> <br>
 [Data Analysis Tools Used](Data-Analysis-Tools-Used) <br> <br>
 [Data Collection](Data-Collection) <br> <br>
@@ -139,7 +140,9 @@ Based on the findings/results of this  data analysis project, I strongly  recomm
 - The company should invest in marketing and promotions during peak sales season to maximise revenue. 
 - The company should implement a customer segmentation strategy to target smartphones and smartwatches customers effectively. 
 - The company should allocate more budget and resources to their Direct sales channel to maximise revenue. 
-- The company should invest more resources  in their Northeast Region of operation  to maximise revenue. 
+- The company should invest more resources  in their Northeast Region of operation  to maximise revenue.
+
+
 
 
 
